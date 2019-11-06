@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  user-select: none;
+}
+
+h2 {
+  user-select: none;
+}
+
+h3 {
+  user-select: none;
+}

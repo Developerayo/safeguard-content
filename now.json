@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "Safeguard Content",
+  "alias": "safeguard-content.now.sh",
+  "builds": [
+    {"src": "package.json", "use": "@now/static-build", "config": {"distDir": "build"}}
+  ]
+} 
